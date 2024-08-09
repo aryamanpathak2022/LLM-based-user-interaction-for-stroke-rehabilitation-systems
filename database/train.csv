@@ -1,0 +1,1136 @@
+User Input,Machine Action,train
+I feel pain,loosen grip,"<|im_start|>user
+I feel pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My hand is hurting,loosen grip,"<|im_start|>user
+My hand is hurting<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+I'm experiencing discomfort,loosen grip,"<|im_start|>user
+I'm experiencing discomfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+The grip is too tight,loosen grip,"<|im_start|>user
+The grip is too tight<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My hand is sore,loosen grip,"<|im_start|>user
+My hand is sore<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My grip is too strong,adjust pressure,"<|im_start|>user
+My grip is too strong<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase the pressure,adjust pressure,"<|im_start|>user
+Increase the pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+The pressure is too high,adjust pressure,"<|im_start|>user
+The pressure is too high<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+I need more pressure,adjust pressure,"<|im_start|>user
+I need more pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+My grip is too firm,adjust pressure,"<|im_start|>user
+My grip is too firm<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+I'm feeling numbness,reduce pressure,"<|im_start|>user
+I'm feeling numbness<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+My hand feels numb,reduce pressure,"<|im_start|>user
+My hand feels numb<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Decrease the pressure,reduce pressure,"<|im_start|>user
+Decrease the pressure<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+I'm uncomfortable,reduce pressure,"<|im_start|>user
+I'm uncomfortable<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+The pressure is too low,increase pressure,"<|im_start|>user
+The pressure is too low<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+I need a firmer grip,increase pressure,"<|im_start|>user
+I need a firmer grip<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+My grip is too loose,increase pressure,"<|im_start|>user
+My grip is too loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Increase the firmness,increase pressure,"<|im_start|>user
+Increase the firmness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust the grip strength,increase pressure,"<|im_start|>user
+Adjust the grip strength<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+I'm feeling numbness,adjust pressure,"<|im_start|>user
+I'm feeling numbness<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+I need more pressure,adjust pressure,"<|im_start|>user
+I need more pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+My hand is in pain,loosen grip,"<|im_start|>user
+My hand is in pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+The grip feels too tight,loosen grip,"<|im_start|>user
+The grip feels too tight<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+I'm experiencing pain in my hand,loosen grip,"<|im_start|>user
+I'm experiencing pain in my hand<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Reduce the tightness,loosen grip,"<|im_start|>user
+Reduce the tightness<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My hand is hurting,loosen grip,"<|im_start|>user
+My hand is hurting<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+I need less pressure,reduce pressure,"<|im_start|>user
+I need less pressure<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+The pressure is excessive,reduce pressure,"<|im_start|>user
+The pressure is excessive<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Decrease the firmness,reduce pressure,"<|im_start|>user
+Decrease the firmness<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+I'm feeling discomfort,reduce pressure,"<|im_start|>user
+I'm feeling discomfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+The pressure needs to be lower,reduce pressure,"<|im_start|>user
+The pressure needs to be lower<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase pressure,adjust pressure,"<|im_start|>user
+Increase pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Make the grip firmer,increase pressure,"<|im_start|>user
+Make the grip firmer<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Add more pressure,adjust pressure,"<|im_start|>user
+Add more pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+My hand feels too tight,loosen grip,"<|im_start|>user
+My hand feels too tight<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+I need to loosen the grip,loosen grip,"<|im_start|>user
+I need to loosen the grip<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Adjust the pressure,adjust pressure,"<|im_start|>user
+Adjust the pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Make the grip stronger,increase pressure,"<|im_start|>user
+Make the grip stronger<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+My hand feels good,no action,"<|im_start|>user
+My hand feels good<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Grip strength is just right,no action,"<|im_start|>user
+Grip strength is just right<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Pressure is perfect,no action,"<|im_start|>user
+Pressure is perfect<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+I'm feeling a bit of pain,loosen grip,"<|im_start|>user
+I'm feeling a bit of pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+The grip is causing discomfort,loosen grip,"<|im_start|>user
+The grip is causing discomfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My hand needs relief,loosen grip,"<|im_start|>user
+My hand needs relief<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Reduce the pressure slightly,reduce pressure,"<|im_start|>user
+Reduce the pressure slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase pressure for better grip,increase pressure,"<|im_start|>user
+Increase pressure for better grip<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust pressure for comfort,adjust pressure,"<|im_start|>user
+Adjust pressure for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+The grip is too loose,increase pressure,"<|im_start|>user
+The grip is too loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+More pressure needed,increase pressure,"<|im_start|>user
+More pressure needed<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Decrease pressure for comfort,reduce pressure,"<|im_start|>user
+Decrease pressure for comfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+The grip is too tight for comfort,loosen grip,"<|im_start|>user
+The grip is too tight for comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase firmness for better hold,increase pressure,"<|im_start|>user
+Increase firmness for better hold<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce grip strength,reduce pressure,"<|im_start|>user
+Reduce grip strength<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Adjust the grip,adjust pressure,"<|im_start|>user
+Adjust the grip<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip is not firm enough,increase pressure,"<|im_start|>user
+Grip is not firm enough<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip is too firm,reduce pressure,"<|im_start|>user
+Grip is too firm<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Decrease pressure for better feel,reduce pressure,"<|im_start|>user
+Decrease pressure for better feel<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase pressure for a firmer grip,increase pressure,"<|im_start|>user
+Increase pressure for a firmer grip<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+The pressure is adequate,no action,"<|im_start|>user
+The pressure is adequate<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Grip feels okay,no action,"<|im_start|>user
+Grip feels okay<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Comfort level is fine,no action,"<|im_start|>user
+Comfort level is fine<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Hand feels good,no action,"<|im_start|>user
+Hand feels good<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Adjust for a more comfortable grip,adjust pressure,"<|im_start|>user
+Adjust for a more comfortable grip<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Loosen grip for relief,loosen grip,"<|im_start|>user
+Loosen grip for relief<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Tighten grip for more support,increase pressure,"<|im_start|>user
+Tighten grip for more support<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Decrease firmness to reduce discomfort,reduce pressure,"<|im_start|>user
+Decrease firmness to reduce discomfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase firmness for better performance,increase pressure,"<|im_start|>user
+Increase firmness for better performance<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Comfort needs adjustment,adjust pressure,"<|im_start|>user
+Comfort needs adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+The grip is causing too much pressure,reduce pressure,"<|im_start|>user
+The grip is causing too much pressure<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+"Too much pressure, adjust accordingly",reduce pressure,"<|im_start|>user
+Too much pressure, adjust accordingly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+"Not enough pressure, increase as needed",increase pressure,"<|im_start|>user
+Not enough pressure, increase as needed<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip strength adjustment required,adjust pressure,"<|im_start|>user
+Grip strength adjustment required<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+The current pressure is too high,reduce pressure,"<|im_start|>user
+The current pressure is too high<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase pressure to suit needs,increase pressure,"<|im_start|>user
+Increase pressure to suit needs<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip adjustment needed for comfort,adjust pressure,"<|im_start|>user
+Grip adjustment needed for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Reduce tightness for ease,loosen grip,"<|im_start|>user
+Reduce tightness for ease<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase tightness for better hold,increase pressure,"<|im_start|>user
+Increase tightness for better hold<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust grip for better fit,adjust pressure,"<|im_start|>user
+Adjust grip for better fit<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Loosen grip to alleviate pain,loosen grip,"<|im_start|>user
+Loosen grip to alleviate pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase pressure for improved grip,increase pressure,"<|im_start|>user
+Increase pressure for improved grip<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure needs to be decreased,reduce pressure,"<|im_start|>user
+Pressure needs to be decreased<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Firmness needs adjustment,adjust pressure,"<|im_start|>user
+Firmness needs adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase firmness for better support,increase pressure,"<|im_start|>user
+Increase firmness for better support<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Loosen grip for better comfort,loosen grip,"<|im_start|>user
+Loosen grip for better comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Pressure is too low for effectiveness,increase pressure,"<|im_start|>user
+Pressure is too low for effectiveness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+The grip needs to be firmer,increase pressure,"<|im_start|>user
+The grip needs to be firmer<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce grip strength for comfort,reduce pressure,"<|im_start|>user
+Reduce grip strength for comfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Adjust the pressure for proper grip,adjust pressure,"<|im_start|>user
+Adjust the pressure for proper grip<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+The pressure level is correct,no action,"<|im_start|>user
+The pressure level is correct<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Grip feels fine,no action,"<|im_start|>user
+Grip feels fine<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+The pressure needs to be adjusted,adjust pressure,"<|im_start|>user
+The pressure needs to be adjusted<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+I feel slight pain,loosen grip,"<|im_start|>user
+I feel slight pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My hand is slightly sore,loosen grip,"<|im_start|>user
+My hand is slightly sore<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+I'm feeling minor discomfort,loosen grip,"<|im_start|>user
+I'm feeling minor discomfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+The grip feels uncomfortable,loosen grip,"<|im_start|>user
+The grip feels uncomfortable<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+My hand is a bit sore,loosen grip,"<|im_start|>user
+My hand is a bit sore<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Grip strength is too high,adjust pressure,"<|im_start|>user
+Grip strength is too high<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Pressure is slightly high,adjust pressure,"<|im_start|>user
+Pressure is slightly high<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Needs a bit more pressure,adjust pressure,"<|im_start|>user
+Needs a bit more pressure<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+My grip seems too firm,adjust pressure,"<|im_start|>user
+My grip seems too firm<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Hand feels slightly numb,reduce pressure,"<|im_start|>user
+Hand feels slightly numb<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Pressure seems too high,reduce pressure,"<|im_start|>user
+Pressure seems too high<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Comfort is not ideal,reduce pressure,"<|im_start|>user
+Comfort is not ideal<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Pressure level seems low,increase pressure,"<|im_start|>user
+Pressure level seems low<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+I need more firmness,increase pressure,"<|im_start|>user
+I need more firmness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip is a bit loose,increase pressure,"<|im_start|>user
+Grip is a bit loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Firmness needs to be increased,increase pressure,"<|im_start|>user
+Firmness needs to be increased<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust grip strength,increase pressure,"<|im_start|>user
+Adjust grip strength<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Hand feels a little pain,loosen grip,"<|im_start|>user
+Hand feels a little pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Grip is somewhat tight,loosen grip,"<|im_start|>user
+Grip is somewhat tight<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+I'm having minor pain,loosen grip,"<|im_start|>user
+I'm having minor pain<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Tightness needs reduction,loosen grip,"<|im_start|>user
+Tightness needs reduction<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Grip feels somewhat firm,adjust pressure,"<|im_start|>user
+Grip feels somewhat firm<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase pressure slightly,adjust pressure,"<|im_start|>user
+Increase pressure slightly<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Pressure adjustment needed,adjust pressure,"<|im_start|>user
+Pressure adjustment needed<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip feels loose,increase pressure,"<|im_start|>user
+Grip feels loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure needs more adjustment,adjust pressure,"<|im_start|>user
+Pressure needs more adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Reduce grip strength,reduce pressure,"<|im_start|>user
+Reduce grip strength<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Hand feels too tight,loosen grip,"<|im_start|>user
+Hand feels too tight<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Grip firmness is excessive,reduce pressure,"<|im_start|>user
+Grip firmness is excessive<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase firmness slightly,increase pressure,"<|im_start|>user
+Increase firmness slightly<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip needs firmness,increase pressure,"<|im_start|>user
+Grip needs firmness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust pressure for relief,adjust pressure,"<|im_start|>user
+Adjust pressure for relief<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Pressure is slightly low,increase pressure,"<|im_start|>user
+Pressure is slightly low<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip feels slightly loose,increase pressure,"<|im_start|>user
+Grip feels slightly loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip strength adjustment,adjust pressure,"<|im_start|>user
+Grip strength adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Comfort needs fine-tuning,adjust pressure,"<|im_start|>user
+Comfort needs fine-tuning<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Loosen grip for comfort,loosen grip,"<|im_start|>user
+Loosen grip for comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase pressure for better hold,increase pressure,"<|im_start|>user
+Increase pressure for better hold<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce grip strength slightly,reduce pressure,"<|im_start|>user
+Reduce grip strength slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Adjust grip for comfort,adjust pressure,"<|im_start|>user
+Adjust grip for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Pressure is not ideal,adjust pressure,"<|im_start|>user
+Pressure is not ideal<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip feels fine,no action,"<|im_start|>user
+Grip feels fine<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Pressure level is acceptable,no action,"<|im_start|>user
+Pressure level is acceptable<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Grip is suitable,no action,"<|im_start|>user
+Grip is suitable<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Comfort is adequate,no action,"<|im_start|>user
+Comfort is adequate<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Increase grip firmness,increase pressure,"<|im_start|>user
+Increase grip firmness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Decrease pressure slightly,reduce pressure,"<|im_start|>user
+Decrease pressure slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip strength needs adjustment,adjust pressure,"<|im_start|>user
+Grip strength needs adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+The pressure needs to be higher,increase pressure,"<|im_start|>user
+The pressure needs to be higher<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip is slightly uncomfortable,loosen grip,"<|im_start|>user
+Grip is slightly uncomfortable<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Reduce grip firmness,reduce pressure,"<|im_start|>user
+Reduce grip firmness<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increasing pressure,increase pressure,"<|im_start|>user
+Increasing pressure<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip feels just right,no action,"<|im_start|>user
+Grip feels just right<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Adjusting pressure for fit,adjust pressure,"<|im_start|>user
+Adjusting pressure for fit<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip needs tightening,increase pressure,"<|im_start|>user
+Grip needs tightening<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure level is satisfactory,no action,"<|im_start|>user
+Pressure level is satisfactory<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Firmness is acceptable,no action,"<|im_start|>user
+Firmness is acceptable<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Adjust the grip strength,adjust pressure,"<|im_start|>user
+Adjust the grip strength<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Decrease the pressure slightly,reduce pressure,"<|im_start|>user
+Decrease the pressure slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip adjustment needed,adjust pressure,"<|im_start|>user
+Grip adjustment needed<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase grip strength slightly,increase pressure,"<|im_start|>user
+Increase grip strength slightly<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure needs lowering,reduce pressure,"<|im_start|>user
+Pressure needs lowering<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Firmness needs to be increased,increase pressure,"<|im_start|>user
+Firmness needs to be increased<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Loosen grip slightly,loosen grip,"<|im_start|>user
+Loosen grip slightly<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase pressure for better fit,increase pressure,"<|im_start|>user
+Increase pressure for better fit<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust the grip for better comfort,adjust pressure,"<|im_start|>user
+Adjust the grip for better comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Reduce pressure to ease,reduce pressure,"<|im_start|>user
+Reduce pressure to ease<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip is too tight for comfort,loosen grip,"<|im_start|>user
+Grip is too tight for comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase grip strength for support,increase pressure,"<|im_start|>user
+Increase grip strength for support<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure needs fine-tuning,adjust pressure,"<|im_start|>user
+Pressure needs fine-tuning<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip is slightly loose,increase pressure,"<|im_start|>user
+Grip is slightly loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce tightness for comfort,loosen grip,"<|im_start|>user
+Reduce tightness for comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase firmness for effectiveness,increase pressure,"<|im_start|>user
+Increase firmness for effectiveness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip adjustment required,adjust pressure,"<|im_start|>user
+Grip adjustment required<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Pressure seems slightly low,increase pressure,"<|im_start|>user
+Pressure seems slightly low<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip firmness needs fine-tuning,increase pressure,"<|im_start|>user
+Grip firmness needs fine-tuning<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Loosen grip for better comfort,loosen grip,"<|im_start|>user
+Loosen grip for better comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Adjust firmness for comfort,adjust pressure,"<|im_start|>user
+Adjust firmness for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip strength is appropriate,no action,"<|im_start|>user
+Grip strength is appropriate<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Pressure level is good,no action,"<|im_start|>user
+Pressure level is good<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Firmness is just right,no action,"<|im_start|>user
+Firmness is just right<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Comfort level is okay,no action,"<|im_start|>user
+Comfort level is okay<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Increase pressure slightly,increase pressure,"<|im_start|>user
+Increase pressure slightly<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Decrease grip strength slightly,reduce pressure,"<|im_start|>user
+Decrease grip strength slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Adjust pressure for comfort,adjust pressure,"<|im_start|>user
+Adjust pressure for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip is somewhat loose,increase pressure,"<|im_start|>user
+Grip is somewhat loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure needs minor adjustment,adjust pressure,"<|im_start|>user
+Pressure needs minor adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip strength is too high,reduce pressure,"<|im_start|>user
+Grip strength is too high<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Loosen grip slightly for comfort,loosen grip,"<|im_start|>user
+Loosen grip slightly for comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increasing pressure for fit,increase pressure,"<|im_start|>user
+Increasing pressure for fit<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Decrease pressure for better comfort,reduce pressure,"<|im_start|>user
+Decrease pressure for better comfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip adjustment for comfort,adjust pressure,"<|im_start|>user
+Grip adjustment for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase firmness slightly,increase pressure,"<|im_start|>user
+Increase firmness slightly<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Pressure needs to be raised,increase pressure,"<|im_start|>user
+Pressure needs to be raised<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip firmness adjustment,adjust pressure,"<|im_start|>user
+Grip firmness adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Reduce tightness to ease,reduce pressure,"<|im_start|>user
+Reduce tightness to ease<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase pressure for better support,increase pressure,"<|im_start|>user
+Increase pressure for better support<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Comfort needs slight adjustment,adjust pressure,"<|im_start|>user
+Comfort needs slight adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip feels slightly tight,loosen grip,"<|im_start|>user
+Grip feels slightly tight<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Increase pressure for effectiveness,increase pressure,"<|im_start|>user
+Increase pressure for effectiveness<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust pressure for a comfortable fit,adjust pressure,"<|im_start|>user
+Adjust pressure for a comfortable fit<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Decrease pressure slightly for comfort,reduce pressure,"<|im_start|>user
+Decrease pressure slightly for comfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip feels slightly loose,increase pressure,"<|im_start|>user
+Grip feels slightly loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust the grip for comfort,adjust pressure,"<|im_start|>user
+Adjust the grip for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Pressure is too low for comfort,increase pressure,"<|im_start|>user
+Pressure is too low for comfort<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Increase firmness for better grip,increase pressure,"<|im_start|>user
+Increase firmness for better grip<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce grip strength for relief,reduce pressure,"<|im_start|>user
+Reduce grip strength for relief<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip is slightly firm,reduce pressure,"<|im_start|>user
+Grip is slightly firm<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Adjust pressure for optimal fit,adjust pressure,"<|im_start|>user
+Adjust pressure for optimal fit<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase pressure slightly for support,increase pressure,"<|im_start|>user
+Increase pressure slightly for support<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip firmness needs adjustment,adjust pressure,"<|im_start|>user
+Grip firmness needs adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Comfort level is fine,no action,"<|im_start|>user
+Comfort level is fine<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Pressure adjustment needed,adjust pressure,"<|im_start|>user
+Pressure adjustment needed<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip feels slightly loose,increase pressure,"<|im_start|>user
+Grip feels slightly loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce pressure slightly for ease,reduce pressure,"<|im_start|>user
+Reduce pressure slightly for ease<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip strength is just right,no action,"<|im_start|>user
+Grip strength is just right<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Adjust firmness for better comfort,adjust pressure,"<|im_start|>user
+Adjust firmness for better comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase pressure to suit needs,increase pressure,"<|im_start|>user
+Increase pressure to suit needs<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Grip adjustment needed for comfort,adjust pressure,"<|im_start|>user
+Grip adjustment needed for comfort<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Decrease firmness slightly,reduce pressure,"<|im_start|>user
+Decrease firmness slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip feels just right,no action,"<|im_start|>user
+Grip feels just right<|im_end|>
+<|im_start|>assistant
+no action<|im_end|>
+"
+Pressure needs to be adjusted,adjust pressure,"<|im_start|>user
+Pressure needs to be adjusted<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increase firmness for support,increase pressure,"<|im_start|>user
+Increase firmness for support<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Loosen grip for better fit,loosen grip,"<|im_start|>user
+Loosen grip for better fit<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Grip is too tight for comfort,loosen grip,"<|im_start|>user
+Grip is too tight for comfort<|im_end|>
+<|im_start|>assistant
+loosen grip<|im_end|>
+"
+Reduce pressure slightly for comfort,reduce pressure,"<|im_start|>user
+Reduce pressure slightly for comfort<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Adjust firmness for fit,adjust pressure,"<|im_start|>user
+Adjust firmness for fit<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip strength needs minor adjustment,adjust pressure,"<|im_start|>user
+Grip strength needs minor adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Increasing pressure for comfort,increase pressure,"<|im_start|>user
+Increasing pressure for comfort<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Decrease pressure slightly for relief,reduce pressure,"<|im_start|>user
+Decrease pressure slightly for relief<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Grip is too loose,increase pressure,"<|im_start|>user
+Grip is too loose<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Adjust the pressure for proper fit,adjust pressure,"<|im_start|>user
+Adjust the pressure for proper fit<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Comfort needs adjustment,adjust pressure,"<|im_start|>user
+Comfort needs adjustment<|im_end|>
+<|im_start|>assistant
+adjust pressure<|im_end|>
+"
+Grip strength is too high,reduce pressure,"<|im_start|>user
+Grip strength is too high<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
+Increase pressure for better comfort,increase pressure,"<|im_start|>user
+Increase pressure for better comfort<|im_end|>
+<|im_start|>assistant
+increase pressure<|im_end|>
+"
+Reduce tightness slightly,reduce pressure,"<|im_start|>user
+Reduce tightness slightly<|im_end|>
+<|im_start|>assistant
+reduce pressure<|im_end|>
+"
