@@ -1,0 +1,1191 @@
+text
+"User: [COMMAND]I need to start the evaluation exercise
+Machine:Start evaluation exercise"
+"User: [COMMAND]Please assist with moving my arm
+Machine:Assist with limb movement"
+"User: [COMMAND]My arm muscles need strengthening
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage me in leg exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Can you decrease the resistance level?
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the exercise for a moment
+Machine:Pause exercise"
+"User: [COMMAND]Resume the exercise now
+Machine:Resume exercise"
+"User: [COMMAND]Stop the exercise
+Machine:Stop exercise"
+"User: [COMMAND]I want to see the performance analytics
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback on the current exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase the duration of the exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Decrease the exercise duration
+Machine:Decrease exercise duration"
+"User: [COMMAND]Make the exercise more intense
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to the next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this exercise
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the exercise settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Record the data from this exercise
+Machine:Record exercise data"
+"User: [COMMAND]Review the history of exercises
+Machine:Review exercise history"
+"User: [COMMAND]I’m feeling pain in my arm
+Machine:Decrease resistance level"
+"User: [COMMAND]Can you assist me with limb movement?
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm muscles, please
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Adjust the resistance level up
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance level
+Machine:Decrease resistance level"
+"User: [COMMAND]Stop for a while
+Machine:Pause exercise"
+"User: [COMMAND]Continue the exercise
+Machine:Resume exercise"
+"User: [COMMAND]End the exercise
+Machine:Stop exercise"
+"User: [COMMAND]Get the analytics of my performance
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on this workout
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add more time to the exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce the time of the exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move to another exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this exercise again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset everything
+Machine:Reset exercise settings"
+"User: [COMMAND]Save this session's data
+Machine:Record exercise data"
+"User: [COMMAND]Look at my exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Start the evaluation
+Machine:Start evaluation exercise"
+"User: [COMMAND]Assist with my limb
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen muscles
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Leg exercise now
+Machine:Engage in leg exercise"
+"User: [COMMAND]Resistance up
+Machine:Increase resistance level"
+"User: [COMMAND]Resistance down
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause now
+Machine:Pause exercise"
+"User: [COMMAND]Resume now
+Machine:Resume exercise"
+"User: [COMMAND]Stop now
+Machine:Stop exercise"
+"User: [COMMAND]Show my analytics
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on this session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]More duration please
+Machine:Increase exercise duration"
+"User: [COMMAND]Less duration please
+Machine:Decrease exercise duration"
+"User: [COMMAND]Intensity up
+Machine:Increase exercise intensity"
+"User: [COMMAND]Intensity down
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat the exercise
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset settings now
+Machine:Reset exercise settings"
+"User: [COMMAND]Save data
+Machine:Record exercise data"
+"User: [COMMAND]Show history
+Machine:Review exercise history"
+"User: [COMMAND]Feeling pain in my leg
+Machine:Decrease resistance level"
+"User: [COMMAND]Need help with movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Boost arm muscles
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage leg exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase resistance now
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease resistance now
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause for a moment
+Machine:Pause exercise"
+"User: [COMMAND]Resume the workout
+Machine:Resume exercise"
+"User: [COMMAND]End current exercise
+Machine:Stop exercise"
+"User: [COMMAND]Show performance data
+Machine:Show performance analytics"
+"User: [COMMAND]Give feedback
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend exercise time
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten exercise time
+Machine:Decrease exercise duration"
+"User: [COMMAND]Raise exercise intensity
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower exercise intensity
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Next workout
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this workout
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Log exercise data
+Machine:Record exercise data"
+"User: [COMMAND]Check exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Start evaluation
+Machine:Start evaluation exercise"
+"User: [COMMAND]Assist with limb movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg workout
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the exercise
+Machine:Pause exercise"
+"User: [COMMAND]Resume the session
+Machine:Resume exercise"
+"User: [COMMAND]Stop the current workout
+Machine:Stop exercise"
+"User: [COMMAND]Show performance results
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback on this workout
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase the exercise duration
+Machine:Increase exercise duration"
+"User: [COMMAND]Decrease the exercise duration
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity of the exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to a different exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this exercise again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all exercise settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Record the data for this exercise
+Machine:Record exercise data"
+"User: [COMMAND]Review past exercises
+Machine:Review exercise history"
+"User: [COMMAND]Feeling pain in my arm
+Machine:Decrease resistance level"
+"User: [COMMAND]Assist with arm movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage me in leg exercises
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase resistance
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the current exercise
+Machine:Pause exercise"
+"User: [COMMAND]Resume my workout
+Machine:Resume exercise"
+"User: [COMMAND]Stop my exercise
+Machine:Stop exercise"
+"User: [COMMAND]Show performance metrics
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on the exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add time to exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce time for exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the intensity
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move on to next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat the current exercise
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Log this exercise
+Machine:Record exercise data"
+"User: [COMMAND]Review exercise logs
+Machine:Review exercise history"
+"User: [COMMAND]Start the session
+Machine:Start evaluation exercise"
+"User: [COMMAND]Help with limb movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen muscles in my arm
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in leg exercise now
+Machine:Engage in leg exercise"
+"User: [COMMAND]Boost resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Lower resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the workout
+Machine:Pause exercise"
+"User: [COMMAND]Resume workout now
+Machine:Resume exercise"
+"User: [COMMAND]Stop the current session
+Machine:Stop exercise"
+"User: [COMMAND]Display performance analytics
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback for this exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend the exercise duration
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the duration of exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase intensity of exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease intensity of exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch exercises
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this workout
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all exercise configurations
+Machine:Reset exercise settings"
+"User: [COMMAND]Save the exercise information
+Machine:Record exercise data"
+"User: [COMMAND]Check previous exercises
+Machine:Review exercise history"
+"User: [COMMAND]Arm pain detected
+Machine:Decrease resistance level"
+"User: [COMMAND]Need limb assistance
+Machine:Assist with limb movement"
+"User: [COMMAND]Boost arm strength
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg routine
+Machine:Engage in leg exercise"
+"User: [COMMAND]Resistance level up
+Machine:Increase resistance level"
+"User: [COMMAND]Resistance level down
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause for a short time
+Machine:Pause exercise"
+"User: [COMMAND]Resume after pause
+Machine:Resume exercise"
+"User: [COMMAND]Stop exercise immediately
+Machine:Stop exercise"
+"User: [COMMAND]Show the analytics
+Machine:Show performance analytics"
+"User: [COMMAND]Give me feedback
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase exercise time
+Machine:Increase exercise duration"
+"User: [COMMAND]Decrease exercise time
+Machine:Decrease exercise duration"
+"User: [COMMAND]Make exercise more intense
+Machine:Increase exercise intensity"
+"User: [COMMAND]Reduce exercise intensity
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Proceed to next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this one again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all settings now
+Machine:Reset exercise settings"
+"User: [COMMAND]Log this workout data
+Machine:Record exercise data"
+"User: [COMMAND]Review past workout history
+Machine:Review exercise history"
+"User: [COMMAND]Start the exercise routine
+Machine:Start evaluation exercise"
+"User: [COMMAND]Help me move my arm
+Machine:Assist with limb movement"
+"User: [COMMAND]Can you work on my arm muscles?
+Machine:Strengthen arm muscles"
+"User: [COMMAND]I need a leg exercise session
+Machine:Engage in leg exercise"
+"User: [COMMAND]Turn up the resistance
+Machine:Increase resistance level"
+"User: [COMMAND]Reduce the resistance setting
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause this exercise session
+Machine:Pause exercise"
+"User: [COMMAND]Can we continue the exercise now?
+Machine:Resume exercise"
+"User: [COMMAND]End this exercise
+Machine:Stop exercise"
+"User: [COMMAND]I need to review performance metrics
+Machine:Show performance analytics"
+"User: [COMMAND]Give me feedback on this exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Make this exercise last longer
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the exercise duration
+Machine:Decrease exercise duration"
+"User: [COMMAND]Raise the intensity of this exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the intensity of the current exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to a different workout
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat the current workout
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all exercise parameters
+Machine:Reset exercise settings"
+"User: [COMMAND]Save this session's data
+Machine:Record exercise data"
+"User: [COMMAND]Show me the history of exercises
+Machine:Review exercise history"
+"User: [COMMAND]My arm is sore
+Machine:Decrease resistance level"
+"User: [COMMAND]I need some help with my arm
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arms now
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage me in a leg workout
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the level of resistance
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the current resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the workout session
+Machine:Pause exercise"
+"User: [COMMAND]Resume the current session
+Machine:Resume exercise"
+"User: [COMMAND]Stop the current routine
+Machine:Stop exercise"
+"User: [COMMAND]Display the performance analysis
+Machine:Show performance analytics"
+"User: [COMMAND]Give me exercise feedback
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Lengthen the exercise time
+Machine:Increase exercise duration"
+"User: [COMMAND]Cut down the exercise time
+Machine:Decrease exercise duration"
+"User: [COMMAND]Intensify the exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Reduce the exercise intensity
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move to the next activity
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this workout session
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the exercise configuration
+Machine:Reset exercise settings"
+"User: [COMMAND]Log this exercise data
+Machine:Record exercise data"
+"User: [COMMAND]View my exercise history
+Machine:Review exercise history"
+"User: [COMMAND]I feel discomfort in my arm
+Machine:Decrease resistance level"
+"User: [COMMAND]Assist me with my arm movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm muscles, please
+Machine:Strengthen arm muscles"
+"User: [COMMAND]I want a leg exercise now
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease the resistance setting
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the current workout
+Machine:Pause exercise"
+"User: [COMMAND]Resume the exercise session
+Machine:Resume exercise"
+"User: [COMMAND]End the exercise
+Machine:Stop exercise"
+"User: [COMMAND]Show me the performance results
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on this workout session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend the duration of the exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the exercise time
+Machine:Decrease exercise duration"
+"User: [COMMAND]Make the exercise more intense
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the exercise intensity
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch exercises
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this exercise again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the exercise settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Record the data for this workout
+Machine:Record exercise data"
+"User: [COMMAND]Review the history of exercises
+Machine:Review exercise history"
+"User: [COMMAND]My arm is hurting
+Machine:Decrease resistance level"
+"User: [COMMAND]Help me with limb movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Boost my arm strength
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Start leg exercises
+Machine:Engage in leg exercise"
+"User: [COMMAND]Raise the resistance
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause this session
+Machine:Pause exercise"
+"User: [COMMAND]Resume my current exercise
+Machine:Resume exercise"
+"User: [COMMAND]Stop the ongoing exercise
+Machine:Stop exercise"
+"User: [COMMAND]Show me my performance
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback for the exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase the time for exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Decrease the time for exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the exercise's intensity
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move to another exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this workout
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the current settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Log the workout data
+Machine:Record exercise data"
+"User: [COMMAND]Check the exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Commence the evaluation session
+Machine:Start evaluation exercise"
+"User: [COMMAND]Assist with my limb movements
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arms
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg workout session
+Machine:Engage in leg exercise"
+"User: [COMMAND]Boost the resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Reduce the current resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the ongoing exercise
+Machine:Pause exercise"
+"User: [COMMAND]Resume the workout
+Machine:Resume exercise"
+"User: [COMMAND]End this exercise session
+Machine:Stop exercise"
+"User: [COMMAND]Show me analytics for my performance
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on my exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add more time to this exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce the time of this exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity of this exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity of this exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move on to the next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this exercise again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all settings for the exercise
+Machine:Reset exercise settings"
+"User: [COMMAND]Record the data from this session
+Machine:Record exercise data"
+"User: [COMMAND]Review the exercise log
+Machine:Review exercise history"
+"User: [COMMAND]My arm hurts
+Machine:Decrease resistance level"
+"User: [COMMAND]I need help with limb exercises
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm now
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage me in a leg exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase resistance settings
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease the resistance settings
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the exercise routine
+Machine:Pause exercise"
+"User: [COMMAND]Resume the workout session
+Machine:Resume exercise"
+"User: [COMMAND]Stop the current session
+Machine:Stop exercise"
+"User: [COMMAND]Show the performance data
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on this exercise session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase exercise time
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the duration of exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase exercise intensity now
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease exercise intensity now
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to another exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this exercise routine
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the current exercise settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Log this workout session
+Machine:Record exercise data"
+"User: [COMMAND]Review the history of this exercise
+Machine:Review exercise history"
+"User: [COMMAND]I feel pain in my limb
+Machine:Decrease resistance level"
+"User: [COMMAND]Help with my limb
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm muscles
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in leg exercises
+Machine:Engage in leg exercise"
+"User: [COMMAND]Raise the resistance
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the current routine
+Machine:Pause exercise"
+"User: [COMMAND]Resume my exercise
+Machine:Resume exercise"
+"User: [COMMAND]Stop the current workout
+Machine:Stop exercise"
+"User: [COMMAND]Show performance details
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback on this exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add time to the exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Cut down on exercise time
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase intensity of the exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to the next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this current exercise
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the settings for this exercise
+Machine:Reset exercise settings"
+"User: [COMMAND]Record data from this exercise
+Machine:Record exercise data"
+"User: [COMMAND]Review the exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Commence the exercise
+Machine:Start evaluation exercise"
+"User: [COMMAND]Assist with limb movement now
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm now
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance level now
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance level
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the workout now
+Machine:Pause exercise"
+"User: [COMMAND]Resume exercise
+Machine:Resume exercise"
+"User: [COMMAND]Stop this exercise now
+Machine:Stop exercise"
+"User: [COMMAND]Show me performance analytics
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback for this session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend exercise duration
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce exercise duration
+Machine:Decrease exercise duration"
+"User: [COMMAND]Intensify the current exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease intensity for this exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to another exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this exercise session
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all exercise configurations
+Machine:Reset exercise settings"
+"User: [COMMAND]Save exercise data
+Machine:Record exercise data"
+"User: [COMMAND]Check the exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Start evaluation now
+Machine:Start evaluation exercise"
+"User: [COMMAND]Assist with my arm movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm muscles now
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage me in a leg routine
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase resistance now
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause for a short period
+Machine:Pause exercise"
+"User: [COMMAND]Resume the current routine
+Machine:Resume exercise"
+"User: [COMMAND]Stop this routine
+Machine:Stop exercise"
+"User: [COMMAND]Show performance results now
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback on the session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase time for exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the exercise duration
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the exercise intensity
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the intensity now
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to next activity
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this routine again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the current settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Record this workout
+Machine:Record exercise data"
+"User: [COMMAND]Review past exercises
+Machine:Review exercise history"
+"User: [COMMAND]Let's begin the exercise evaluation
+Machine:Start evaluation exercise"
+"User: [COMMAND]Please assist me with arm movement
+Machine:Assist with limb movement"
+"User: [COMMAND]My arms need strengthening
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Start a leg exercise routine
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance setting
+Machine:Increase resistance level"
+"User: [COMMAND]Turn down the resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the current exercise
+Machine:Pause exercise"
+"User: [COMMAND]Resume the previous workout
+Machine:Resume exercise"
+"User: [COMMAND]Terminate this exercise
+Machine:Stop exercise"
+"User: [COMMAND]Show me the performance report
+Machine:Show performance analytics"
+"User: [COMMAND]Can I get feedback on this session?
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Lengthen the duration of this exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the duration of this workout
+Machine:Decrease exercise duration"
+"User: [COMMAND]Make the workout more intense
+Machine:Increase exercise intensity"
+"User: [COMMAND]Reduce the intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Proceed to the next workout
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this session
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all current exercise settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Log the data from this workout
+Machine:Record exercise data"
+"User: [COMMAND]Show me the history of my exercises
+Machine:Review exercise history"
+"User: [COMMAND]My arm feels sore
+Machine:Decrease resistance level"
+"User: [COMMAND]Need help with arm exercise
+Machine:Assist with limb movement"
+"User: [COMMAND]Boost the strength of my arm
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Initiate a leg exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Raise the resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the current workout session
+Machine:Pause exercise"
+"User: [COMMAND]Resume the current workout
+Machine:Resume exercise"
+"User: [COMMAND]Stop the ongoing exercise
+Machine:Stop exercise"
+"User: [COMMAND]Display performance statistics
+Machine:Show performance analytics"
+"User: [COMMAND]Give feedback on this exercise session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add extra time to the exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Cut the exercise duration
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity of this workout
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity level
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move on to the following exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this exercise again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the settings for this exercise
+Machine:Reset exercise settings"
+"User: [COMMAND]Record the current session data
+Machine:Record exercise data"
+"User: [COMMAND]Review the past workout sessions
+Machine:Review exercise history"
+"User: [COMMAND]My limb is hurting
+Machine:Decrease resistance level"
+"User: [COMMAND]I need assistance with arm movement
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arms immediately
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in leg exercise right now
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance for this exercise
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease the resistance for this workout
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause this workout
+Machine:Pause exercise"
+"User: [COMMAND]Resume the exercise routine
+Machine:Resume exercise"
+"User: [COMMAND]End the current exercise
+Machine:Stop exercise"
+"User: [COMMAND]Show me my performance results
+Machine:Show performance analytics"
+"User: [COMMAND]Provide me with feedback on this workout
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend the exercise period
+Machine:Increase exercise duration"
+"User: [COMMAND]Decrease the time for this exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the exercise's intensity
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the intensity for this workout
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to a new exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat the previous exercise
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all the settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Log data from this session
+Machine:Record exercise data"
+"User: [COMMAND]Check the history of exercises
+Machine:Review exercise history"
+"User: [COMMAND]My arm is experiencing pain
+Machine:Decrease resistance level"
+"User: [COMMAND]Help me with my arm movements
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm muscles now
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg exercise immediately
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the current resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease the current resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause this exercise routine
+Machine:Pause exercise"
+"User: [COMMAND]Resume the ongoing workout
+Machine:Resume exercise"
+"User: [COMMAND]Stop this exercise immediately
+Machine:Stop exercise"
+"User: [COMMAND]Show performance metrics for this session
+Machine:Show performance analytics"
+"User: [COMMAND]Provide feedback on the current exercise
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add more time to the exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce the exercise time
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity of the exercise
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to a different exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this workout session
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the exercise settings now
+Machine:Reset exercise settings"
+"User: [COMMAND]Record data for this workout
+Machine:Record exercise data"
+"User: [COMMAND]Review the exercise history
+Machine:Review exercise history"
+"User: [COMMAND]My arm is sore from the workout
+Machine:Decrease resistance level"
+"User: [COMMAND]Assist with my limb exercises
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm now, please
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg workout session now
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance level immediately
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance setting right now
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the ongoing workout session
+Machine:Pause exercise"
+"User: [COMMAND]Resume the previous exercise
+Machine:Resume exercise"
+"User: [COMMAND]Stop the current exercise immediately
+Machine:Stop exercise"
+"User: [COMMAND]Show me the analytics of my performance
+Machine:Show performance analytics"
+"User: [COMMAND]Give me feedback on the current session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend the duration of the current workout
+Machine:Increase exercise duration"
+"User: [COMMAND]Decrease the duration for this workout
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity of this session
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity of this session
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to the next available exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Do this routine once more
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all exercise configurations now
+Machine:Reset exercise settings"
+"User: [COMMAND]Log the data from this workout session
+Machine:Record exercise data"
+"User: [COMMAND]Check my previous exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Start the evaluation workout
+Machine:Start evaluation exercise"
+"User: [COMMAND]Assist with moving my arm now
+Machine:Assist with limb movement"
+"User: [COMMAND]Strengthen my arm immediately
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Initiate a leg exercise routine now
+Machine:Engage in leg exercise"
+"User: [COMMAND]Raise the resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance setting
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the exercise session
+Machine:Pause exercise"
+"User: [COMMAND]Resume the workout session
+Machine:Resume exercise"
+"User: [COMMAND]Stop the ongoing workout
+Machine:Stop exercise"
+"User: [COMMAND]Show my performance analytics
+Machine:Show performance analytics"
+"User: [COMMAND]Provide me feedback for this workout
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase the time for this exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the time for this exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the exercise intensity now
+Machine:Increase exercise intensity"
+"User: [COMMAND]Reduce the exercise intensity now
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Move on to the next exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat the current exercise
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the settings for this exercise
+Machine:Reset exercise settings"
+"User: [COMMAND]Log the data from this session
+Machine:Record exercise data"
+"User: [COMMAND]Review my exercise history
+Machine:Review exercise history"
+"User: [COMMAND]Begin the assessment exercise now
+Machine:Start evaluation exercise"
+"User: [COMMAND]Help with my arm mobility issues
+Machine:Assist with limb movement"
+"User: [COMMAND]Work on enhancing my arm strength
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Engage in a leg-focused workout
+Machine:Engage in leg exercise"
+"User: [COMMAND]Boost the resistance level
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the resistance for this session
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause the ongoing exercise routine
+Machine:Pause exercise"
+"User: [COMMAND]Resume the previous exercise session
+Machine:Resume exercise"
+"User: [COMMAND]End the exercise session immediately
+Machine:Stop exercise"
+"User: [COMMAND]Show the analytics of my performance
+Machine:Show performance analytics"
+"User: [COMMAND]Give feedback on the current exercise session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Add extra time to the current exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce the time allocated for this workout
+Machine:Decrease exercise duration"
+"User: [COMMAND]Increase the intensity for this routine
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity level of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to a new exercise
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat this exercise session now
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the settings for this exercise session
+Machine:Reset exercise settings"
+"User: [COMMAND]Log the data from this workout session
+Machine:Record exercise data"
+"User: [COMMAND]Review the list of past exercises
+Machine:Review exercise history"
+"User: [COMMAND]Manage the pain in my arm
+Machine:Decrease resistance level"
+"User: [COMMAND]Assist with the movement of my arm
+Machine:Assist with limb movement"
+"User: [COMMAND]Quickly strengthen my arm muscles
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Start a leg-focused exercise
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase the resistance setting immediately
+Machine:Increase resistance level"
+"User: [COMMAND]Decrease the current resistance level
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause this exercise routine
+Machine:Pause exercise"
+"User: [COMMAND]Resume the previously paused exercise
+Machine:Resume exercise"
+"User: [COMMAND]Stop this ongoing workout
+Machine:Stop exercise"
+"User: [COMMAND]Provide performance metrics for this exercise
+Machine:Show performance analytics"
+"User: [COMMAND]Feedback on this workout session, please
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Extend the time for this workout
+Machine:Increase exercise duration"
+"User: [COMMAND]Shorten the duration of this exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Raise the intensity of this workout
+Machine:Increase exercise intensity"
+"User: [COMMAND]Lower the intensity of the exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Proceed to the next exercise routine
+Machine:Switch to next exercise"
+"User: [COMMAND]Do the current exercise again
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset the exercise configuration settings
+Machine:Reset exercise settings"
+"User: [COMMAND]Record this workout session's data
+Machine:Record exercise data"
+"User: [COMMAND]Check the historical data for exercises
+Machine:Review exercise history"
+"User: [COMMAND]Address the soreness in my arm
+Machine:Decrease resistance level"
+"User: [COMMAND]Assist me in moving my arm properly
+Machine:Assist with limb movement"
+"User: [COMMAND]Enhance the strength of my arm muscles
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Initiate a session focused on legs
+Machine:Engage in leg exercise"
+"User: [COMMAND]Increase resistance immediately
+Machine:Increase resistance level"
+"User: [COMMAND]Lower the current level of resistance
+Machine:Decrease resistance level"
+"User: [COMMAND]Pause this current workout session
+Machine:Pause exercise"
+"User: [COMMAND]Resume the exercise that was paused
+Machine:Resume exercise"
+"User: [COMMAND]Stop this current exercise routine
+Machine:Stop exercise"
+"User: [COMMAND]Display my exercise performance details
+Machine:Show performance analytics"
+"User: [COMMAND]Provide some feedback for the exercise session
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Increase the duration for this current exercise
+Machine:Increase exercise duration"
+"User: [COMMAND]Reduce the length of the exercise
+Machine:Decrease exercise duration"
+"User: [COMMAND]Make this exercise more intense
+Machine:Increase exercise intensity"
+"User: [COMMAND]Decrease the intensity level of this workout
+Machine:Decrease exercise intensity"
+"User: [COMMAND]Switch to the next workout
+Machine:Switch to next exercise"
+"User: [COMMAND]Repeat the exercise we're currently doing
+Machine:Repeat current exercise"
+"User: [COMMAND]Reset all exercise parameters now
+Machine:Reset exercise settings"
+"User: [COMMAND]Log the data from this workout
+Machine:Record exercise data"
+"User: [COMMAND]Review the history of my exercise routines
+Machine:Review exercise history"
+"User: [COMMAND]MY [ARM/LEG] HURTS
+Machine:Repeat current exercise"
+"User: [COMMAND]I'm feeling some pain?
+Machine:Reset exercise settings"
+"User: [COMMAND]I can't do this anymore?
+Machine:Record exercise data"
+"User: [COMMAND]Slow down please?
+Machine:Stop exercise"
+"User: [COMMAND]I_need_a_break
+Machine:Show performance analytics"
+"User: [COMMAND]CAN YOU MAKE IT HARDER?
+Machine:Provide feedback on exercise"
+"User: [COMMAND]I need some help?
+Machine:Increase exercise duration"
+"User: [COMMAND]I NEED SOME HELP
+Machine:Decrease exercise intensity"
+"User: [COMMAND]I'M DONE
+Machine:Provide feedback on exercise"
+"User: [COMMAND]DO THIS ONE AGAIN
+Machine:Repeat current exercise"
+"User: [COMMAND]I'm struggling?
+Machine:Pause exercise"
+"User: [COMMAND]Track_my_progress
+Machine:Show performance analytics"
+"User: [COMMAND]Tell_me_more_about_this_machine
+Machine:Engage in leg exercise"
+"User: [COMMAND]Stop_the_machine
+Machine:Repeat current exercise"
+"User: [COMMAND]CAN YOU MAKE IT HARDER?
+Machine:Switch to next exercise"
+"User: [COMMAND]Do_this_one_again
+Machine:Decrease exercise duration"
+"User: [COMMAND]SLOW DOWN PLEASE
+Machine:Pause exercise"
+"User: [COMMAND]I'm_done
+Machine:Engage in leg exercise"
+"User: [COMMAND]Can we start over??
+Machine:Increase resistance level"
+"User: [COMMAND]Stop_the_machine
+Machine:Increase exercise duration"
+"User: [COMMAND]TRACK MY PROGRESS
+Machine:Record exercise data"
+"User: [COMMAND]Show_me_my_results
+Machine:Engage in leg exercise"
+"User: [COMMAND]Can_we_start_over?
+Machine:Repeat current exercise"
+"User: [COMMAND]Can_I_get_some_feedback?
+Machine:Decrease exercise intensity"
+"User: [COMMAND]What exercises are we doing today??
+Machine:Stop exercise"
+"User: [COMMAND]I'M STRUGGLING
+Machine:Review exercise history"
+"User: [COMMAND]CAN I GET SOME FEEDBACK?
+Machine:Decrease resistance level"
+"User: [COMMAND]CAN I GET SOME FEEDBACK?
+Machine:Pause exercise"
+"User: [COMMAND]Can we work on my legs??
+Machine:Reset exercise settings"
+"User: [COMMAND]Slow_down_please
+Machine:Provide feedback on exercise"
+"User: [COMMAND]Show_me_my_results
+Machine:Reset exercise settings"
+"User: [COMMAND]Can we work on my legs??
+Machine:Strengthen arm muscles"
+"User: [COMMAND]I NEED A BREAK
+Machine:Engage in leg exercise"
+"User: [COMMAND]I'M FEELING SOME PAIN
+Machine:Decrease exercise duration"
+"User: [COMMAND]Track my progress?
+Machine:Strengthen arm muscles"
+"User: [COMMAND]CAN I GET SOME FEEDBACK?
+Machine:Engage in leg exercise"
+"User: [COMMAND]Next_exercise
+Machine:Decrease exercise intensity"
+"User: [COMMAND]I can't do this anymore?
+Machine:Increase exercise duration"
+"User: [COMMAND]My [arm/leg] hurts?
+Machine:Reset exercise settings"
+"User: [COMMAND]CAN WE START OVER?
+Machine:Increase exercise intensity"
+"User: [COMMAND]I'm_done
+Machine:Assist with limb movement"
+"User: [COMMAND]My_[arm/leg]_hurts
+Machine:Increase exercise duration"
+"User: [COMMAND]I WANT A BIGGER CHALLENGE
+Machine:Increase exercise intensity"
+"User: [COMMAND]What's next in the program??
+Machine:Pause exercise"
+"User: [COMMAND]I'm_struggling
+Machine:Provide feedback on exercise"
+"User: [COMMAND]TELL ME MORE ABOUT THIS MACHINE
+Machine:Reset exercise settings"
+"User: [COMMAND]Tell_me_more_about_this_machine
+Machine:Repeat current exercise"
+"User: [COMMAND]I'M STRUGGLING
+Machine:Resume exercise"
+"User: [COMMAND]I WANT A BIGGER CHALLENGE
+Machine:Increase exercise intensity"
+"User: [COMMAND]Go a little faster?
+Machine:Record exercise data"
+"User: [COMMAND]I want a bigger challenge?
+Machine:Show performance analytics"
+"User: [COMMAND]I'm_feeling_some_pain
+Machine:Increase resistance level"
+"User: [COMMAND]Can_I_get_some_feedback?
+Machine:Decrease exercise duration"
+"User: [COMMAND]I_need_some_help
+Machine:Stop exercise"
+"User: [COMMAND]Slow_down_please
+Machine:Stop exercise"
+"User: [COMMAND]Can_you_make_it_harder?
+Machine:Show performance analytics"
+"User: [COMMAND]I want a bigger challenge?
+Machine:Review exercise history"
+"User: [COMMAND]NEXT EXERCISE
+Machine:Reset exercise settings"
+"User: [COMMAND]TRACK MY PROGRESS
+Machine:Decrease exercise intensity"
+"User: [COMMAND]MY [ARM/LEG] HURTS
+Machine:Pause exercise"
+"User: [COMMAND]How am I doing??
+Machine:Resume exercise"
+"User: [COMMAND]CAN WE WORK ON MY LEGS?
+Machine:Switch to next exercise"
+"User: [COMMAND]Track_my_progress
+Machine:Increase exercise intensity"
+"User: [COMMAND]TELL ME MORE ABOUT THIS MACHINE
+Machine:Decrease exercise intensity"
+"User: [COMMAND]I'm_done
+Machine:Record exercise data"
+"User: [COMMAND]THIS IS TOO [DIFFICULT/HARD]
+Machine:Increase resistance level"
+"User: [COMMAND]SHOW ME MY RESULTS
+Machine:Strengthen arm muscles"
+"User: [COMMAND]Stop_the_machine
+Machine:Show performance analytics"
+"User: [COMMAND]CAN I GET SOME FEEDBACK?
+Machine:Start evaluation exercise"
+"User: [COMMAND]My_[arm/leg]_hurts
+Machine:Reset exercise settings"
+"User: [COMMAND]Next_exercise
+Machine:Review exercise history"
+"User: [COMMAND]Stop the machine?
+Machine:Assist with limb movement"
+"User: [COMMAND]Slow_down_please
+Machine:Engage in leg exercise"
+"User: [COMMAND]I'm struggling?
+Machine:Increase exercise duration"
+"User: [COMMAND]Show me my results?
+Machine:Increase resistance level"
